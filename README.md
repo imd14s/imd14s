@@ -70,13 +70,11 @@ Atualmente busco oportunidades para:
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=imd14s&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=imd14s&layout=compact&theme=github_dark" />
+</p>
 
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=imd14s&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imd14s&layout=compact&langs_count=7&theme=github_dark"/>
-
-</div>
 
 
 ---
